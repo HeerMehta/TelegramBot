@@ -1,4 +1,4 @@
-##This is the code for Telegram bot of Edignite NGO##
+# This is the code for Telegram bot of Edignite NGO #
 
 (Work for this bot is currently in progress)
 
